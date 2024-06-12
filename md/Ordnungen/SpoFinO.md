@@ -50,7 +50,7 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 (4) Ein Antrag enthält ein empfohlenes Angebot sowie Vergleichsangebote. Ein Antrag muss Angebote in folgendem Umfang enthalten:
 
-1. Bei einer Summe bis zu 250€ mindestens ein Angebot, sowie 2 weitere Angebote oder Kostenauskünfte zu Vergleichszwecken
+1. Bei einer Summe bis zu 250€ mindestens ein Angebot, sowie zwei weitere Angebote oder Kostenauskünfte zu Vergleichszwecken
 2. bei einer Summe über 250€ mindestens drei Angebote
 3. bei einer Summe über 1.000€ mindestens vier Angebote
 4. bei einer Summe über 10.000€ mindestens sieben Angebote
@@ -121,7 +121,7 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 (3) Für Europäische Hochschulmeisterschaften (EUC) gelten abweichend folgende Regelungen:
 
-1. Übernommen wird maximal zwei drittel der von der EUSA festgelegten Meldegebühr.
+1. Übernommen wird maximal zwei Drittel der von der EUSA festgelegten Meldegebühr.
 2. Fahrtkosten werden nur auf Beschluss der OV bezuschusst.
 3. Übersteigt das Antragsvolumen 1500€, so ist eine Zustimmung der OV, sowie des Studierendenparlaments notwendig
 
@@ -142,7 +142,7 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 (1) Für eine Wettkampfausrichtung sind bis zu 250€ förderfähig.
 (2) Förderfähig sind der Kauf von Verbrauchsmatierialien und etwaigen Gewinnen. Verpflegung und Übernachtung sind nicht zuschussfähig.
 (3) Ausgaben die durch andere Mittel, beispielsweise Meldekosten, gedeckt werden können, sind nicht zuschussfähig.
-(4) Födererfähig sind nur Wettkämpfe in Bonn und direkter Umgebung, die hauptsächlich eine studentische Zielgruppe haben und einen Bezug zum Hochschulsport haben.
+(4) Fördererfähig sind nur Wettkämpfe in Bonn und direkter Umgebung, die hauptsächlich eine studentische Zielgruppe haben und einen Bezug zum Hochschulsport haben.
 (5) Anträge, die die oben genannte Kriterien erfüllen, müssen nicht der OV vorgelegt werden und werden vom Sportreferat entschieden.
 
 ### § 7 Weitergehende Anträge
